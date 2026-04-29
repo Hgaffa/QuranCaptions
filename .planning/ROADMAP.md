@@ -40,7 +40,7 @@
 5. The Zustand store skeleton is wired up and all anticipated state slices (verse selection, font config, color config, canvas config, export state) are defined with their TypeScript types
 **Plans:** 2 plans
 Plans:
-- [ ] 01-01-PLAN.md — Project scaffold, shadcn/ui, Zustand store, TypeScript types, Bismillah utility
+- [x] 01-01-PLAN.md — Project scaffold, shadcn/ui, Zustand store, TypeScript types, Bismillah utility
 - [ ] 01-02-PLAN.md — Font loading pipeline, app shell layout, smoke test verification
 **UI hint:** yes
 
@@ -88,7 +88,7 @@ Plans:
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation | 0/2 | Planning complete | - |
+| 1. Foundation | 1/2 | In progress | - |
 | 2. Working Preview | 0/? | Not started | - |
 | 3. Configuration | 0/? | Not started | - |
 | 4. Export | 0/? | Not started | - |
